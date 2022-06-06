@@ -48,7 +48,9 @@ mayúsculas, sin comillas y todo junto. Igualmente, la contraseña de este y otr
 se encuentra en el archivo "settings.json" de la carpeta ".vscode".
 
 ATENCIÓN --> En este repositorio falta un archivo llamado "yolov3.weights". Como es más 
-pesado de 25Mb no es posible subirlo. El usuario debe buscarlo por su cuenta. Sorry
+pesado de 25Mb no es posible subirlo. Es posible descargarlo en el siguiente repositorio, 
+con solo clickar en "view raw" ------------------------> 
+"https://github.com/patrick013/Object-Detection---Yolov3/blob/master/model/yolov3.weights"
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
