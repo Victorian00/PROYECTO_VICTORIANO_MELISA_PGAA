@@ -47,6 +47,8 @@ cuatro archivos mencionados anteriormente. En este caso, la contraseña es "1234
 mayúsculas, sin comillas y todo junto. Igualmente, la contraseña de este y otros permisos 
 se encuentra en el archivo "settings.json" de la carpeta ".vscode".
 
+ATENCIÓN --> En este repositorio falta un archivo llamado "yolov3.weights". Como es más 
+pesado de 25Mb no es posible subirlo. El usuario debe buscarlo por su cuenta. Sorry
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -71,6 +73,7 @@ a día. Aunque en dicho proyecto, el reconocimiento de imagenes se realiza
 con fotos tomadas por el usuario y con texto escrito, en un futuro se 
 pretende implementar la detección de imágenes en tiempo real y la descripción 
 de imágenes por voz.
+
 
 
 
