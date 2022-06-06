@@ -61,7 +61,7 @@ Para ejecutar correctamente el código se seguirás los siguientes pasos:
     - Cerciorarse de que los paquetes utilizados en la cabecera están instalados
     - Ejecutar el archivo en el terminal
     - Introducir la contraseña requerida (en este caso es 12345)
-    - Aparecerá un link, al cuál te redirigirá si pulsas Ctl y clickas en dicho link
+    - Aparecerá un link, al cuál te redirigirá si pulsas Ctrl y clickas en dicho link
     - Si se siguen todos los pasos llegarás a la página deseada
     - Por último, disfruta del contenido mostrado
 
